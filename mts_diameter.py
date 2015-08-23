@@ -4,7 +4,7 @@ from expyriment import design, control, stimuli, misc, io
 
 
 """
-This experiment aims at replicating the original study:
+This experiment aims to replicate the original study:
 Money, E. A., Kirk, R. C., & McNaughton, N. (1992). Alzheimer's
 dementia produces a loss of discrimination but no increase in
 rate of memory decay in delayed matching to sample.
