@@ -1,0 +1,813 @@
+#Expyriment 0.8.0 (Python 2.7.10), .xpe-file, coding: UTF-8
+#date: Mon Aug 24 2015 21:58:42
+#sha1: 86d0ed
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: ('Linux', 'localhost.localdomain', '4.1.3-200.fc22.x86_64', '#1 SMP Wed Jul 22 19:51:58 UTC 2015', 'x86_64', 'x86_64')
+Time,Type,Event,Value,Detail,Detail2
+980,design,log,
+#design: #exp: interhemispheric reaction time
+#design: block_cnt,block_id,block_Type,trial_cnt,trial_id
+#design: 0,0,LC,0,0
+#design: 0,0,LC,1,1
+#design: 0,0,LC,2,2
+#design: 0,0,LC,3,3
+#design: 0,0,LC,4,4
+#design: 0,0,LC,5,5
+#design: 0,0,LC,6,6
+#design: 0,0,LC,7,7
+#design: 0,0,LC,8,8
+#design: 0,0,LC,9,9
+#design: 1,1,LC,0,0
+#design: 1,1,LC,1,1
+#design: 1,1,LC,2,2
+#design: 1,1,LC,3,3
+#design: 1,1,LC,4,4
+#design: 1,1,LC,5,5
+#design: 1,1,LC,6,6
+#design: 1,1,LC,7,7
+#design: 1,1,LC,8,8
+#design: 1,1,LC,9,9
+#design: 2,2,LC,0,0
+#design: 2,2,LC,1,1
+#design: 2,2,LC,2,2
+#design: 2,2,LC,3,3
+#design: 2,2,LC,4,4
+#design: 2,2,LC,5,5
+#design: 2,2,LC,6,6
+#design: 2,2,LC,7,7
+#design: 2,2,LC,8,8
+#design: 2,2,LC,9,9
+#design: 3,3,LC,0,0
+#design: 3,3,LC,1,1
+#design: 3,3,LC,2,2
+#design: 3,3,LC,3,3
+#design: 3,3,LC,4,4
+#design: 3,3,LC,5,5
+#design: 3,3,LC,6,6
+#design: 3,3,LC,7,7
+#design: 3,3,LC,8,8
+#design: 3,3,LC,9,9
+#design: 4,4,LC,0,0
+#design: 4,4,LC,1,1
+#design: 4,4,LC,2,2
+#design: 4,4,LC,3,3
+#design: 4,4,LC,4,4
+#design: 4,4,LC,5,5
+#design: 4,4,LC,6,6
+#design: 4,4,LC,7,7
+#design: 4,4,LC,8,8
+#design: 4,4,LC,9,9
+#design: 5,5,LI,0,0
+#design: 5,5,LI,1,1
+#design: 5,5,LI,2,2
+#design: 5,5,LI,3,3
+#design: 5,5,LI,4,4
+#design: 5,5,LI,5,5
+#design: 5,5,LI,6,6
+#design: 5,5,LI,7,7
+#design: 5,5,LI,8,8
+#design: 5,5,LI,9,9
+#design: 6,6,LI,0,0
+#design: 6,6,LI,1,1
+#design: 6,6,LI,2,2
+#design: 6,6,LI,3,3
+#design: 6,6,LI,4,4
+#design: 6,6,LI,5,5
+#design: 6,6,LI,6,6
+#design: 6,6,LI,7,7
+#design: 6,6,LI,8,8
+#design: 6,6,LI,9,9
+#design: 7,7,LI,0,0
+#design: 7,7,LI,1,1
+#design: 7,7,LI,2,2
+#design: 7,7,LI,3,3
+#design: 7,7,LI,4,4
+#design: 7,7,LI,5,5
+#design: 7,7,LI,6,6
+#design: 7,7,LI,7,7
+#design: 7,7,LI,8,8
+#design: 7,7,LI,9,9
+#design: 8,8,LI,0,0
+#design: 8,8,LI,1,1
+#design: 8,8,LI,2,2
+#design: 8,8,LI,3,3
+#design: 8,8,LI,4,4
+#design: 8,8,LI,5,5
+#design: 8,8,LI,6,6
+#design: 8,8,LI,7,7
+#design: 8,8,LI,8,8
+#design: 8,8,LI,9,9
+#design: 9,9,LI,0,0
+#design: 9,9,LI,1,1
+#design: 9,9,LI,2,2
+#design: 9,9,LI,3,3
+#design: 9,9,LI,4,4
+#design: 9,9,LI,5,5
+#design: 9,9,LI,6,6
+#design: 9,9,LI,7,7
+#design: 9,9,LI,8,8
+#design: 9,9,LI,9,9
+#design: 10,10,RC,0,0
+#design: 10,10,RC,1,1
+#design: 10,10,RC,2,2
+#design: 10,10,RC,3,3
+#design: 10,10,RC,4,4
+#design: 10,10,RC,5,5
+#design: 10,10,RC,6,6
+#design: 10,10,RC,7,7
+#design: 10,10,RC,8,8
+#design: 10,10,RC,9,9
+#design: 11,11,RC,0,0
+#design: 11,11,RC,1,1
+#design: 11,11,RC,2,2
+#design: 11,11,RC,3,3
+#design: 11,11,RC,4,4
+#design: 11,11,RC,5,5
+#design: 11,11,RC,6,6
+#design: 11,11,RC,7,7
+#design: 11,11,RC,8,8
+#design: 11,11,RC,9,9
+#design: 12,12,RC,0,0
+#design: 12,12,RC,1,1
+#design: 12,12,RC,2,2
+#design: 12,12,RC,3,3
+#design: 12,12,RC,4,4
+#design: 12,12,RC,5,5
+#design: 12,12,RC,6,6
+#design: 12,12,RC,7,7
+#design: 12,12,RC,8,8
+#design: 12,12,RC,9,9
+#design: 13,13,RC,0,0
+#design: 13,13,RC,1,1
+#design: 13,13,RC,2,2
+#design: 13,13,RC,3,3
+#design: 13,13,RC,4,4
+#design: 13,13,RC,5,5
+#design: 13,13,RC,6,6
+#design: 13,13,RC,7,7
+#design: 13,13,RC,8,8
+#design: 13,13,RC,9,9
+#design: 14,14,RC,0,0
+#design: 14,14,RC,1,1
+#design: 14,14,RC,2,2
+#design: 14,14,RC,3,3
+#design: 14,14,RC,4,4
+#design: 14,14,RC,5,5
+#design: 14,14,RC,6,6
+#design: 14,14,RC,7,7
+#design: 14,14,RC,8,8
+#design: 14,14,RC,9,9
+#design: 15,15,RI,0,0
+#design: 15,15,RI,1,1
+#design: 15,15,RI,2,2
+#design: 15,15,RI,3,3
+#design: 15,15,RI,4,4
+#design: 15,15,RI,5,5
+#design: 15,15,RI,6,6
+#design: 15,15,RI,7,7
+#design: 15,15,RI,8,8
+#design: 15,15,RI,9,9
+#design: 16,16,RI,0,0
+#design: 16,16,RI,1,1
+#design: 16,16,RI,2,2
+#design: 16,16,RI,3,3
+#design: 16,16,RI,4,4
+#design: 16,16,RI,5,5
+#design: 16,16,RI,6,6
+#design: 16,16,RI,7,7
+#design: 16,16,RI,8,8
+#design: 16,16,RI,9,9
+#design: 17,17,RI,0,0
+#design: 17,17,RI,1,1
+#design: 17,17,RI,2,2
+#design: 17,17,RI,3,3
+#design: 17,17,RI,4,4
+#design: 17,17,RI,5,5
+#design: 17,17,RI,6,6
+#design: 17,17,RI,7,7
+#design: 17,17,RI,8,8
+#design: 17,17,RI,9,9
+#design: 18,18,RI,0,0
+#design: 18,18,RI,1,1
+#design: 18,18,RI,2,2
+#design: 18,18,RI,3,3
+#design: 18,18,RI,4,4
+#design: 18,18,RI,5,5
+#design: 18,18,RI,6,6
+#design: 18,18,RI,7,7
+#design: 18,18,RI,8,8
+#design: 18,18,RI,9,9
+#design: 19,19,RI,0,0
+#design: 19,19,RI,1,1
+#design: 19,19,RI,2,2
+#design: 19,19,RI,3,3
+#design: 19,19,RI,4,4
+#design: 19,19,RI,5,5
+#design: 19,19,RI,6,6
+#design: 19,19,RI,7,7
+#design: 19,19,RI,8,8
+#design: 19,19,RI,9,9
+999,design,logged,
+999,Experiment,started
+1000,Stimulus,presented,0
+3003,Stimulus,presented,1
+3004,Stimulus,presented,2
+4005,Stimulus,presented,0
+6006,Stimulus,presented,1
+6008,Stimulus,presented,2
+7008,Stimulus,presented,0
+9009,Stimulus,presented,1
+9010,Stimulus,presented,2
+10010,Stimulus,presented,0
+12011,Stimulus,presented,1
+12012,Stimulus,presented,2
+13013,Stimulus,presented,0
+15015,Stimulus,presented,1
+15018,Stimulus,presented,2
+16018,Stimulus,presented,0
+18019,Stimulus,presented,1
+18020,Stimulus,presented,2
+19021,Stimulus,presented,0
+21022,Stimulus,presented,1
+21023,Stimulus,presented,2
+22023,Stimulus,presented,0
+24024,Stimulus,presented,1
+24025,Stimulus,presented,2
+25025,Stimulus,presented,0
+27025,Stimulus,presented,1
+27026,Stimulus,presented,2
+28027,Stimulus,presented,0
+30028,Stimulus,presented,1
+30029,Stimulus,presented,2
+31030,Stimulus,presented,0
+33031,Stimulus,presented,1
+33032,Stimulus,presented,2
+34032,Stimulus,presented,0
+36033,Stimulus,presented,1
+36034,Stimulus,presented,2
+37034,Stimulus,presented,0
+39035,Stimulus,presented,1
+39036,Stimulus,presented,2
+40036,Stimulus,presented,0
+42037,Stimulus,presented,1
+42038,Stimulus,presented,2
+43039,Stimulus,presented,0
+45040,Stimulus,presented,1
+45042,Stimulus,presented,2
+46042,Stimulus,presented,0
+48043,Stimulus,presented,1
+48044,Stimulus,presented,2
+49044,Stimulus,presented,0
+51045,Stimulus,presented,1
+51047,Stimulus,presented,2
+52047,Stimulus,presented,0
+54048,Stimulus,presented,1
+54049,Stimulus,presented,2
+55049,Stimulus,presented,0
+57050,Stimulus,presented,1
+57052,Stimulus,presented,2
+58052,Stimulus,presented,0
+60053,Stimulus,presented,1
+60055,Stimulus,presented,2
+61055,Stimulus,presented,0
+63056,Stimulus,presented,1
+63057,Stimulus,presented,2
+64058,Stimulus,presented,0
+66059,Stimulus,presented,1
+66060,Stimulus,presented,2
+67061,Stimulus,presented,0
+69062,Stimulus,presented,1
+69063,Stimulus,presented,2
+70064,Stimulus,presented,0
+72065,Stimulus,presented,1
+72066,Stimulus,presented,2
+73067,Stimulus,presented,0
+75068,Stimulus,presented,1
+75069,Stimulus,presented,2
+76070,Stimulus,presented,0
+78070,Stimulus,presented,1
+78071,Stimulus,presented,2
+79072,Stimulus,presented,0
+81073,Stimulus,presented,1
+81074,Stimulus,presented,2
+82076,Stimulus,presented,0
+84077,Stimulus,presented,1
+84078,Stimulus,presented,2
+85079,Stimulus,presented,0
+87080,Stimulus,presented,1
+87081,Stimulus,presented,2
+88081,Stimulus,presented,0
+90082,Stimulus,presented,1
+90084,Stimulus,presented,2
+91084,Stimulus,presented,0
+93085,Stimulus,presented,1
+93087,Stimulus,presented,2
+94087,Stimulus,presented,0
+96088,Stimulus,presented,1
+96089,Stimulus,presented,2
+97089,Stimulus,presented,0
+99090,Stimulus,presented,1
+99091,Stimulus,presented,2
+100091,Stimulus,presented,0
+102092,Stimulus,presented,1
+102093,Stimulus,presented,2
+103093,Stimulus,presented,0
+105094,Stimulus,presented,1
+105095,Stimulus,presented,2
+106095,Stimulus,presented,0
+108096,Stimulus,presented,1
+108097,Stimulus,presented,2
+109098,Stimulus,presented,0
+111099,Stimulus,presented,1
+111100,Stimulus,presented,2
+112101,Stimulus,presented,0
+114102,Stimulus,presented,1
+114104,Stimulus,presented,2
+115104,Stimulus,presented,0
+117105,Stimulus,presented,1
+117106,Stimulus,presented,2
+118106,Stimulus,presented,0
+120107,Stimulus,presented,1
+120108,Stimulus,presented,2
+121108,Stimulus,presented,0
+123109,Stimulus,presented,1
+123110,Stimulus,presented,2
+124111,Stimulus,presented,0
+126112,Stimulus,presented,1
+126114,Stimulus,presented,2
+127114,Stimulus,presented,0
+129115,Stimulus,presented,1
+129116,Stimulus,presented,2
+130117,Stimulus,presented,0
+132118,Stimulus,presented,1
+132120,Stimulus,presented,2
+133120,Stimulus,presented,0
+135121,Stimulus,presented,1
+135122,Stimulus,presented,2
+136123,Stimulus,presented,0
+138124,Stimulus,presented,1
+138126,Stimulus,presented,2
+139126,Stimulus,presented,0
+141127,Stimulus,presented,1
+141128,Stimulus,presented,2
+142129,Stimulus,presented,0
+144130,Stimulus,presented,1
+144132,Stimulus,presented,2
+145132,Stimulus,presented,0
+147133,Stimulus,presented,1
+147135,Stimulus,presented,2
+148135,Stimulus,presented,0
+150136,Stimulus,presented,1
+150137,Stimulus,presented,2
+151138,Stimulus,presented,0
+153139,Stimulus,presented,1
+153140,Stimulus,presented,2
+154140,Stimulus,presented,0
+156140,Stimulus,presented,1
+156141,Stimulus,presented,2
+157141,Stimulus,presented,0
+159142,Stimulus,presented,1
+159143,Stimulus,presented,2
+160143,Stimulus,presented,0
+162144,Stimulus,presented,1
+162145,Stimulus,presented,2
+163145,Stimulus,presented,0
+165146,Stimulus,presented,1
+165148,Stimulus,presented,2
+166148,Stimulus,presented,0
+168149,Stimulus,presented,1
+168150,Stimulus,presented,2
+169151,Stimulus,presented,0
+171152,Stimulus,presented,1
+171153,Stimulus,presented,2
+172154,Stimulus,presented,0
+174155,Stimulus,presented,1
+174157,Stimulus,presented,2
+175157,Stimulus,presented,0
+177158,Stimulus,presented,1
+177160,Stimulus,presented,2
+178160,Stimulus,presented,0
+180161,Stimulus,presented,1
+180162,Stimulus,presented,2
+181162,Stimulus,presented,0
+183163,Stimulus,presented,1
+183164,Stimulus,presented,2
+184164,Stimulus,presented,0
+186165,Stimulus,presented,1
+186166,Stimulus,presented,2
+187166,Stimulus,presented,0
+189167,Stimulus,presented,1
+189168,Stimulus,presented,2
+190168,Stimulus,presented,0
+192169,Stimulus,presented,1
+192170,Stimulus,presented,2
+193171,Stimulus,presented,0
+195172,Stimulus,presented,1
+195173,Stimulus,presented,2
+196174,Stimulus,presented,0
+198176,Stimulus,presented,1
+198177,Stimulus,presented,2
+199177,Stimulus,presented,0
+201178,Stimulus,presented,1
+201180,Stimulus,presented,2
+202180,Stimulus,presented,0
+204181,Stimulus,presented,1
+204182,Stimulus,presented,2
+205183,Stimulus,presented,0
+207184,Stimulus,presented,1
+207186,Stimulus,presented,2
+208186,Stimulus,presented,0
+210186,Stimulus,presented,1
+210187,Stimulus,presented,2
+211188,Stimulus,presented,0
+213190,Stimulus,presented,1
+213191,Stimulus,presented,2
+214191,Stimulus,presented,0
+216192,Stimulus,presented,1
+216193,Stimulus,presented,2
+217193,Stimulus,presented,0
+219194,Stimulus,presented,1
+219196,Stimulus,presented,2
+220196,Stimulus,presented,0
+222196,Stimulus,presented,1
+222198,Stimulus,presented,2
+223198,Stimulus,presented,0
+225199,Stimulus,presented,1
+225201,Stimulus,presented,2
+226201,Stimulus,presented,0
+228202,Stimulus,presented,1
+228203,Stimulus,presented,2
+229203,Stimulus,presented,0
+231204,Stimulus,presented,1
+231206,Stimulus,presented,2
+232206,Stimulus,presented,0
+234207,Stimulus,presented,1
+234209,Stimulus,presented,2
+235210,Stimulus,presented,0
+237211,Stimulus,presented,1
+237212,Stimulus,presented,2
+238212,Stimulus,presented,0
+240212,Stimulus,presented,1
+240213,Stimulus,presented,2
+241214,Stimulus,presented,0
+243215,Stimulus,presented,1
+243217,Stimulus,presented,2
+244217,Stimulus,presented,0
+246218,Stimulus,presented,1
+246220,Stimulus,presented,2
+247220,Stimulus,presented,0
+249220,Stimulus,presented,1
+249222,Stimulus,presented,2
+250222,Stimulus,presented,0
+252223,Stimulus,presented,1
+252224,Stimulus,presented,2
+253226,Stimulus,presented,0
+255227,Stimulus,presented,1
+255228,Stimulus,presented,2
+256229,Stimulus,presented,0
+258229,Stimulus,presented,1
+258230,Stimulus,presented,2
+259231,Stimulus,presented,0
+261232,Stimulus,presented,1
+261234,Stimulus,presented,2
+262234,Stimulus,presented,0
+264235,Stimulus,presented,1
+264236,Stimulus,presented,2
+265236,Stimulus,presented,0
+267238,Stimulus,presented,1
+267239,Stimulus,presented,2
+268239,Stimulus,presented,0
+270240,Stimulus,presented,1
+270241,Stimulus,presented,2
+271242,Stimulus,presented,0
+273243,Stimulus,presented,1
+273244,Stimulus,presented,2
+274245,Stimulus,presented,0
+276246,Stimulus,presented,1
+276248,Stimulus,presented,2
+277249,Stimulus,presented,0
+279251,Stimulus,presented,1
+279252,Stimulus,presented,2
+280253,Stimulus,presented,0
+282253,Stimulus,presented,1
+282254,Stimulus,presented,2
+283254,Stimulus,presented,0
+285255,Stimulus,presented,1
+285257,Stimulus,presented,2
+286257,Stimulus,presented,0
+288258,Stimulus,presented,1
+288259,Stimulus,presented,2
+289259,Stimulus,presented,0
+291260,Stimulus,presented,1
+291261,Stimulus,presented,2
+292261,Stimulus,presented,0
+294263,Stimulus,presented,1
+294265,Stimulus,presented,2
+295265,Stimulus,presented,0
+297266,Stimulus,presented,1
+297267,Stimulus,presented,2
+298268,Stimulus,presented,0
+300269,Stimulus,presented,1
+300271,Stimulus,presented,2
+301271,Stimulus,presented,0
+303272,Stimulus,presented,1
+303274,Stimulus,presented,2
+304274,Stimulus,presented,0
+306275,Stimulus,presented,1
+306276,Stimulus,presented,2
+307277,Stimulus,presented,0
+309278,Stimulus,presented,1
+309279,Stimulus,presented,2
+310279,Stimulus,presented,0
+312280,Stimulus,presented,1
+312282,Stimulus,presented,2
+313282,Stimulus,presented,0
+315283,Stimulus,presented,1
+315284,Stimulus,presented,2
+316284,Stimulus,presented,0
+318285,Stimulus,presented,1
+318286,Stimulus,presented,2
+319287,Stimulus,presented,0
+321288,Stimulus,presented,1
+321289,Stimulus,presented,2
+322289,Stimulus,presented,0
+324290,Stimulus,presented,1
+324291,Stimulus,presented,2
+325292,Stimulus,presented,0
+327293,Stimulus,presented,1
+327294,Stimulus,presented,2
+328295,Stimulus,presented,0
+330296,Stimulus,presented,1
+330297,Stimulus,presented,2
+331297,Stimulus,presented,0
+333298,Stimulus,presented,1
+333299,Stimulus,presented,2
+334299,Stimulus,presented,0
+336300,Stimulus,presented,1
+336301,Stimulus,presented,2
+337302,Stimulus,presented,0
+339303,Stimulus,presented,1
+339304,Stimulus,presented,2
+340304,Stimulus,presented,0
+342305,Stimulus,presented,1
+342307,Stimulus,presented,2
+343307,Stimulus,presented,0
+345308,Stimulus,presented,1
+345310,Stimulus,presented,2
+346310,Stimulus,presented,0
+348311,Stimulus,presented,1
+348312,Stimulus,presented,2
+349312,Stimulus,presented,0
+351313,Stimulus,presented,1
+351314,Stimulus,presented,2
+352314,Stimulus,presented,0
+354315,Stimulus,presented,1
+354316,Stimulus,presented,2
+355317,Stimulus,presented,0
+357318,Stimulus,presented,1
+357319,Stimulus,presented,2
+358319,Stimulus,presented,0
+360321,Stimulus,presented,1
+360323,Stimulus,presented,2
+361323,Stimulus,presented,0
+363323,Stimulus,presented,1
+363324,Stimulus,presented,2
+364325,Stimulus,presented,0
+366327,Stimulus,presented,1
+366329,Stimulus,presented,2
+367329,Stimulus,presented,0
+369330,Stimulus,presented,1
+369331,Stimulus,presented,2
+370332,Stimulus,presented,0
+372334,Stimulus,presented,1
+372336,Stimulus,presented,2
+373337,Stimulus,presented,0
+375338,Stimulus,presented,1
+375340,Stimulus,presented,2
+376340,Stimulus,presented,0
+378341,Stimulus,presented,1
+378343,Stimulus,presented,2
+379343,Stimulus,presented,0
+381344,Stimulus,presented,1
+381346,Stimulus,presented,2
+382346,Stimulus,presented,0
+384348,Stimulus,presented,1
+384350,Stimulus,presented,2
+385351,Stimulus,presented,0
+387352,Stimulus,presented,1
+387353,Stimulus,presented,2
+388354,Stimulus,presented,0
+390356,Stimulus,presented,1
+390358,Stimulus,presented,2
+391358,Stimulus,presented,0
+393359,Stimulus,presented,1
+393360,Stimulus,presented,2
+394361,Stimulus,presented,0
+396362,Stimulus,presented,1
+396363,Stimulus,presented,2
+397364,Stimulus,presented,0
+399365,Stimulus,presented,1
+399366,Stimulus,presented,2
+400366,Stimulus,presented,0
+402367,Stimulus,presented,1
+402368,Stimulus,presented,2
+403369,Stimulus,presented,0
+405370,Stimulus,presented,1
+405371,Stimulus,presented,2
+406372,Stimulus,presented,0
+408373,Stimulus,presented,1
+408374,Stimulus,presented,2
+409374,Stimulus,presented,0
+411375,Stimulus,presented,1
+411376,Stimulus,presented,2
+412376,Stimulus,presented,0
+414378,Stimulus,presented,1
+414380,Stimulus,presented,2
+415380,Stimulus,presented,0
+417382,Stimulus,presented,1
+417383,Stimulus,presented,2
+418384,Stimulus,presented,0
+420385,Stimulus,presented,1
+420386,Stimulus,presented,2
+421386,Stimulus,presented,0
+423387,Stimulus,presented,1
+423388,Stimulus,presented,2
+424389,Stimulus,presented,0
+426390,Stimulus,presented,1
+426391,Stimulus,presented,2
+427391,Stimulus,presented,0
+429392,Stimulus,presented,1
+429393,Stimulus,presented,2
+430394,Stimulus,presented,0
+432395,Stimulus,presented,1
+432396,Stimulus,presented,2
+433397,Stimulus,presented,0
+435398,Stimulus,presented,1
+435400,Stimulus,presented,2
+436400,Stimulus,presented,0
+438401,Stimulus,presented,1
+438402,Stimulus,presented,2
+439403,Stimulus,presented,0
+441404,Stimulus,presented,1
+441405,Stimulus,presented,2
+442405,Stimulus,presented,0
+444406,Stimulus,presented,1
+444407,Stimulus,presented,2
+445407,Stimulus,presented,0
+447408,Stimulus,presented,1
+447409,Stimulus,presented,2
+448409,Stimulus,presented,0
+450410,Stimulus,presented,1
+450411,Stimulus,presented,2
+451411,Stimulus,presented,0
+453412,Stimulus,presented,1
+453413,Stimulus,presented,2
+454413,Stimulus,presented,0
+456414,Stimulus,presented,1
+456415,Stimulus,presented,2
+457416,Stimulus,presented,0
+459417,Stimulus,presented,1
+459419,Stimulus,presented,2
+460419,Stimulus,presented,0
+462420,Stimulus,presented,1
+462421,Stimulus,presented,2
+463421,Stimulus,presented,0
+465422,Stimulus,presented,1
+465424,Stimulus,presented,2
+466424,Stimulus,presented,0
+468425,Stimulus,presented,1
+468426,Stimulus,presented,2
+469426,Stimulus,presented,0
+471427,Stimulus,presented,1
+471428,Stimulus,presented,2
+472429,Stimulus,presented,0
+474430,Stimulus,presented,1
+474431,Stimulus,presented,2
+475431,Stimulus,presented,0
+477432,Stimulus,presented,1
+477433,Stimulus,presented,2
+478433,Stimulus,presented,0
+480434,Stimulus,presented,1
+480435,Stimulus,presented,2
+481436,Stimulus,presented,0
+483437,Stimulus,presented,1
+483438,Stimulus,presented,2
+484438,Stimulus,presented,0
+486439,Stimulus,presented,1
+486440,Stimulus,presented,2
+487440,Stimulus,presented,0
+489441,Stimulus,presented,1
+489442,Stimulus,presented,2
+490442,Stimulus,presented,0
+492443,Stimulus,presented,1
+492444,Stimulus,presented,2
+493444,Stimulus,presented,0
+495445,Stimulus,presented,1
+495446,Stimulus,presented,2
+496446,Stimulus,presented,0
+498447,Stimulus,presented,1
+498448,Stimulus,presented,2
+499448,Stimulus,presented,0
+501449,Stimulus,presented,1
+501450,Stimulus,presented,2
+502451,Stimulus,presented,0
+504452,Stimulus,presented,1
+504453,Stimulus,presented,2
+505454,Stimulus,presented,0
+507455,Stimulus,presented,1
+507456,Stimulus,presented,2
+508456,Stimulus,presented,0
+510457,Stimulus,presented,1
+510458,Stimulus,presented,2
+511458,Stimulus,presented,0
+513459,Stimulus,presented,1
+513460,Stimulus,presented,2
+514461,Stimulus,presented,0
+516462,Stimulus,presented,1
+516463,Stimulus,presented,2
+517463,Stimulus,presented,0
+519464,Stimulus,presented,1
+519465,Stimulus,presented,2
+520466,Stimulus,presented,0
+522467,Stimulus,presented,1
+522468,Stimulus,presented,2
+523469,Stimulus,presented,0
+525470,Stimulus,presented,1
+525471,Stimulus,presented,2
+526472,Stimulus,presented,0
+528472,Stimulus,presented,1
+528473,Stimulus,presented,2
+529474,Stimulus,presented,0
+531475,Stimulus,presented,1
+531476,Stimulus,presented,2
+532477,Stimulus,presented,0
+534478,Stimulus,presented,1
+534479,Stimulus,presented,2
+535479,Stimulus,presented,0
+537480,Stimulus,presented,1
+537482,Stimulus,presented,2
+538482,Stimulus,presented,0
+540483,Stimulus,presented,1
+540484,Stimulus,presented,2
+541484,Stimulus,presented,0
+543485,Stimulus,presented,1
+543486,Stimulus,presented,2
+544487,Stimulus,presented,0
+546489,Stimulus,presented,1
+546490,Stimulus,presented,2
+547490,Stimulus,presented,0
+549492,Stimulus,presented,1
+549493,Stimulus,presented,2
+550494,Stimulus,presented,0
+552495,Stimulus,presented,1
+552496,Stimulus,presented,2
+553496,Stimulus,presented,0
+555497,Stimulus,presented,1
+555498,Stimulus,presented,2
+556498,Stimulus,presented,0
+558499,Stimulus,presented,1
+558500,Stimulus,presented,2
+559501,Stimulus,presented,0
+561502,Stimulus,presented,1
+561503,Stimulus,presented,2
+562503,Stimulus,presented,0
+564504,Stimulus,presented,1
+564505,Stimulus,presented,2
+565506,Stimulus,presented,0
+567508,Stimulus,presented,1
+567510,Stimulus,presented,2
+568511,Stimulus,presented,0
+570512,Stimulus,presented,1
+570513,Stimulus,presented,2
+571514,Stimulus,presented,0
+573515,Stimulus,presented,1
+573516,Stimulus,presented,2
+574516,Stimulus,presented,0
+576517,Stimulus,presented,1
+576518,Stimulus,presented,2
+577518,Stimulus,presented,0
+579519,Stimulus,presented,1
+579520,Stimulus,presented,2
+580521,Stimulus,presented,0
+582522,Stimulus,presented,1
+582524,Stimulus,presented,2
+583524,Stimulus,presented,0
+585525,Stimulus,presented,1
+585527,Stimulus,presented,2
+586527,Stimulus,presented,0
+588528,Stimulus,presented,1
+588529,Stimulus,presented,2
+589530,Stimulus,presented,0
+591531,Stimulus,presented,1
+591533,Stimulus,presented,2
+592534,Stimulus,presented,0
+594535,Stimulus,presented,1
+594537,Stimulus,presented,2
+595537,Stimulus,presented,0
+597538,Stimulus,presented,1
+597539,Stimulus,presented,2
+598540,Stimulus,presented,0
+600541,Stimulus,presented,1
+600542,Stimulus,presented,2
+601542,Experiment,ended
